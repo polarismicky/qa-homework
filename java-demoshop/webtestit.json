@@ -1,0 +1,10 @@
+{
+  "defaultTestName": "NewTest",
+  "pageObjectFolder": "src/test/java/uitest/pageobjects",
+  "projectName": "java-demoshop",
+  "rootPackage": "uitest",
+  "targetFramework": "Selenium",
+  "targetLanguage": "java",
+  "testFolder": "src/test/java/uitest/tests",
+  "version": "1.4.0"
+}
